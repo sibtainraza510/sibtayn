@@ -20,7 +20,7 @@ I'm currently diving deeper into `Web Wevelopment` and `Artificial Intelligence`
 
 ## 📫 How to reach me:
 
-You can reach me at sibtaynrza54017@gmail.com or on LinkedIn.
+You can reach me at sibtaynrza54017@gmail.com or https://www.linkedin.com/in/mohd-sibtain-raza-194492253/.
 
 
 
