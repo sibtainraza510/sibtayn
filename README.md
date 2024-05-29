@@ -5,12 +5,14 @@ I'm Mohd Sibtayn Rza, a passionate self-taught programmer from New Delhi-INDIA.
 ## 🛠️ Languages and Tools:
 
 - Proficient in:  `JavaScript`, `html`, `css`
-- Frameworks:  `Node.js`, `Express.js`
-- Others: `Git`
+- Frameworks:  `Node.js`, `Express.js`, `Bootstrap`
+- Library: `React.js`
+- Databases: `MySQL`, `MongoDB`
+- Others: `Github`,`GitBASH`
 
 ## 🌱 I’m currently learning:
 
-I'm currently diving deeper into `Web Wevelopment`
+I'm currently diving deeper into `MERN stack development`
 
 
 ## 📚 Education:
@@ -19,7 +21,8 @@ I'm currently diving deeper into `Web Wevelopment`
 
 ## 📫 How to reach me:
 
-You can reach me at sibtaynrza54017@gmail.com or https://www.linkedin.com/in/mohd-sibtain-raza-194492253/.
+You can reach me at sibtaynrza54017@gmail.com  or
+https://www.linkedin.com/in/mohd-sibtain-raza-194492253/.
 
 
 
