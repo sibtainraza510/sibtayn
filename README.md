@@ -5,7 +5,7 @@ I'm Mohd Sibtayn Rza, a passionate self-taught programmer from New Delhi-INDIA.
 ## 🛠️ Languages and Tools:
 
 - Proficient in:  `JavaScript`, `html`, `css`
-- Frameworks:  `Node.js`, `Express.js`, `Bootstrap`
+- Frameworks:  `Node.js`,Express.js `Express.js`, `Bootstrap`
 - Library: `React.js`
 - Databases: `MySQL`, `MongoDB`
 - Others: `Github`,`GitBASH`
